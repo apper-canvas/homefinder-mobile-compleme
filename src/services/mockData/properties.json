@@ -1,0 +1,470 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Penthouse",
+    "price": 850000,
+    "address": {
+      "street": "1425 Broadway Ave",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98101"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFeet": 2200,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning penthouse with panoramic city views, featuring floor-to-ceiling windows, premium finishes, and a private rooftop terrace. Located in the heart of downtown with easy access to restaurants, shopping, and public transportation.",
+    "features": [
+      "City Views",
+      "Rooftop Terrace",
+      "Hardwood Floors",
+      "Stainless Steel Appliances",
+      "In-Unit Laundry",
+      "Parking Included"
+    ],
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "listingDate": "2024-01-15T08:00:00Z",
+    "agent": {
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@realty.com",
+      "phone": "(206) 555-0123"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian Family Home",
+    "price": 675000,
+    "address": {
+      "street": "2845 Maple Street",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "97210"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautifully restored Victorian home with original architectural details, spacious rooms, and a large backyard perfect for entertaining. Updated kitchen and bathrooms while maintaining period charm.",
+    "features": [
+      "Original Hardwood",
+      "Updated Kitchen",
+      "Large Backyard",
+      "Period Details",
+      "Walk-in Closets",
+      "Two-Car Garage"
+    ],
+    "coordinates": {
+      "lat": 45.5152,
+      "lng": -122.6784
+    },
+    "listingDate": "2024-01-12T10:30:00Z",
+    "agent": {
+      "name": "Mike Chen",
+      "email": "mike.chen@homes.com",
+      "phone": "(503) 555-0187"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Luxury Waterfront Townhouse",
+    "price": 1250000,
+    "address": {
+      "street": "789 Harbor Drive",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94105"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFeet": 1950,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "description": "Exclusive waterfront townhouse with breathtaking bay views, private dock access, and luxury finishes throughout. Contemporary design with smart home technology and premium amenities.",
+    "features": [
+      "Water Views",
+      "Private Dock",
+      "Smart Home Tech",
+      "Wine Cellar",
+      "Gourmet Kitchen",
+      "Private Elevator"
+    ],
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "listingDate": "2024-01-10T14:15:00Z",
+    "agent": {
+      "name": "Jennifer Martinez",
+      "email": "jennifer.martinez@luxury.com",
+      "phone": "(415) 555-0245"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Cozy Studio Apartment",
+    "price": 295000,
+    "address": {
+      "street": "456 Pine Street",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "78701"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFeet": 650,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop"
+    ],
+    "description": "Perfect starter home or investment property in vibrant downtown Austin. Open floor plan with modern amenities, walking distance to restaurants, music venues, and tech companies.",
+    "features": [
+      "Downtown Location",
+      "Open Floor Plan",
+      "Modern Appliances",
+      "Fitness Center",
+      "Rooftop Pool",
+      "Pet Friendly"
+    ],
+    "coordinates": {
+      "lat": 30.2672,
+      "lng": -97.7431
+    },
+    "listingDate": "2024-01-08T09:45:00Z",
+    "agent": {
+      "name": "David Rodriguez",
+      "email": "david.rodriguez@austin.com",
+      "phone": "(512) 555-0198"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Suburban Family Dream Home",
+    "price": 485000,
+    "address": {
+      "street": "1234 Oak Valley Lane",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80202"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 3200,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600573472592-401b489a3cdc?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=800&h=600&fit=crop"
+    ],
+    "description": "Spacious family home in quiet neighborhood with excellent schools, large backyard, and mountain views. Perfect for growing families with modern updates and move-in ready condition.",
+    "features": [
+      "Mountain Views",
+      "Large Backyard",
+      "Updated Kitchen",
+      "Master Suite",
+      "Three-Car Garage",
+      "Great Schools"
+    ],
+    "coordinates": {
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    "listingDate": "2024-01-05T11:20:00Z",
+    "agent": {
+      "name": "Lisa Thompson",
+      "email": "lisa.thompson@denver.com",
+      "phone": "(303) 555-0167"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Historic Brownstone Renovation",
+    "price": 925000,
+    "address": {
+      "street": "567 Beacon Hill Road",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "02108"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 2100,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&h=600&fit=crop"
+    ],
+    "description": "Meticulously renovated historic brownstone combining classic architecture with modern amenities. Located in prestigious Beacon Hill with cobblestone streets and rich history.",
+    "features": [
+      "Historic Character",
+      "Exposed Brick",
+      "Modern Updates",
+      "Private Garden",
+      "Original Details",
+      "Prime Location"
+    ],
+    "coordinates": {
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "listingDate": "2024-01-03T13:10:00Z",
+    "agent": {
+      "name": "Robert Kim",
+      "email": "robert.kim@boston.com",
+      "phone": "(617) 555-0234"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Modern Loft with City Views",
+    "price": 625000,
+    "address": {
+      "street": "890 Industrial Way",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800&h=600&fit=crop"
+    ],
+    "description": "Converted warehouse loft featuring soaring ceilings, exposed brick walls, and stunning city skyline views. Industrial chic design with modern conveniences in trendy River North.",
+    "features": [
+      "High Ceilings",
+      "Exposed Brick",
+      "City Views",
+      "Concrete Floors",
+      "Loft Style",
+      "Trendy Neighborhood"
+    ],
+    "coordinates": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "listingDate": "2024-01-01T16:30:00Z",
+    "agent": {
+      "name": "Amanda Wilson",
+      "email": "amanda.wilson@chicago.com",
+      "phone": "(312) 555-0176"
+    }
+  },
+  {
+    "id": "8",
+    "title": "Beachfront Luxury Condo",
+    "price": 1650000,
+    "address": {
+      "street": "321 Ocean Boulevard",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33139"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2500,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop"
+    ],
+    "description": "Breathtaking oceanfront condo with direct beach access, floor-to-ceiling windows, and panoramic Atlantic views. Resort-style amenities and world-class dining nearby.",
+    "features": [
+      "Ocean Views",
+      "Beach Access",
+      "Resort Amenities",
+      "Concierge Service",
+      "Valet Parking",
+      "Private Balcony"
+    ],
+    "coordinates": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    },
+    "listingDate": "2023-12-28T12:45:00Z",
+    "agent": {
+      "name": "Carlos Mendez",
+      "email": "carlos.mendez@miami.com",
+      "phone": "(305) 555-0289"
+    }
+  },
+  {
+    "id": "9",
+    "title": "Mountain Cabin Retreat",
+    "price": 395000,
+    "address": {
+      "street": "1876 Pine Ridge Trail",
+      "city": "Asheville",
+      "state": "NC",
+      "zipCode": "28801"
+    },
+    "bedrooms": 2,
+    "bathrooms": 1.5,
+    "squareFeet": 1400,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Charming mountain retreat with rustic charm and modern comforts. Surrounded by hiking trails, streams, and wildlife. Perfect getaway or year-round residence for nature lovers.",
+    "features": [
+      "Mountain Views",
+      "Hiking Trails",
+      "Wood Fireplace",
+      "Wraparound Deck",
+      "Rustic Charm",
+      "Privacy"
+    ],
+    "coordinates": {
+      "lat": 35.5951,
+      "lng": -82.5515
+    },
+    "listingDate": "2023-12-25T10:15:00Z",
+    "agent": {
+      "name": "Jessica Taylor",
+      "email": "jessica.taylor@mountain.com",
+      "phone": "(828) 555-0145"
+    }
+  },
+  {
+    "id": "10",
+    "title": "New Construction Smart Home",
+    "price": 575000,
+    "address": {
+      "street": "2468 Technology Drive",
+      "city": "Raleigh",
+      "state": "NC",
+      "zipCode": "27601"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFeet": 2350,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600573472592-401b489a3cdc?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "description": "Brand new construction featuring cutting-edge smart home technology, energy-efficient systems, and contemporary design. Located in growing tech corridor with excellent amenities.",
+    "features": [
+      "Smart Home Tech",
+      "Energy Efficient",
+      "New Construction",
+      "Open Floor Plan",
+      "Tech Corridor",
+      "Modern Design"
+    ],
+    "coordinates": {
+      "lat": 35.7796,
+      "lng": -78.6382
+    },
+    "listingDate": "2023-12-22T14:20:00Z",
+    "agent": {
+      "name": "Kevin Park",
+      "email": "kevin.park@raleigh.com",
+      "phone": "(919) 555-0213"
+    }
+  },
+  {
+    "id": "11",
+    "title": "Designer Penthouse Suite",
+    "price": 1350000,
+    "address": {
+      "street": "987 Skyline Avenue",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "30309"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "squareFeet": 3100,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&h=600&fit=crop"
+    ],
+    "description": "Exquisite designer penthouse with custom finishes, private elevator access, and stunning views of the Atlanta skyline. Premium building amenities and prime Buckhead location.",
+    "features": [
+      "Designer Finishes",
+      "Private Elevator",
+      "Skyline Views",
+      "Premium Building",
+      "Buckhead Location",
+      "Luxury Amenities"
+    ],
+    "coordinates": {
+      "lat": 33.7490,
+      "lng": -84.3880
+    },
+    "listingDate": "2023-12-20T09:30:00Z",
+    "agent": {
+      "name": "Michelle Davis",
+      "email": "michelle.davis@atlanta.com",
+      "phone": "(404) 555-0267"
+    }
+  },
+  {
+    "id": "12",
+    "title": "Farmhouse Style Home",
+    "price": 445000,
+    "address": {
+      "street": "3579 Country Lane",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "37201"
+    },
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "squareFeet": 2900,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautiful modern farmhouse with shiplap walls, barn doors, and spacious open concept living. Large front porch and backyard perfect for entertaining in Music City.",
+    "features": [
+      "Farmhouse Style",
+      "Shiplap Walls",
+      "Barn Doors",
+      "Large Porch",
+      "Open Concept",
+      "Music City"
+    ],
+    "coordinates": {
+      "lat": 36.1627,
+      "lng": -86.7816
+    },
+    "listingDate": "2023-12-18T15:45:00Z",
+    "agent": {
+      "name": "Tommy Anderson",
+      "email": "tommy.anderson@nashville.com",
+      "phone": "(615) 555-0198"
+    }
+  }
+]
